@@ -1,0 +1,10 @@
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\bin\Debug\phonebookForm.exe.config
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\bin\Debug\phonebookForm.exe
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\bin\Debug\phonebookForm.pdb
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.csprojAssemblyReference.cache
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.Form1.resources
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.Properties.Resources.resources
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.csproj.GenerateResource.cache
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.csproj.CoreCompileInputs.cache
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.exe
+D:\code academy\c#\ByMeHomeWork\phonebookForm\phonebookForm\obj\Debug\phonebookForm.pdb

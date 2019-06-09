@@ -1,0 +1,13 @@
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\bin\Debug\07.06.19.exe.config
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\bin\Debug\07.06.19.exe
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\bin\Debug\07.06.19.pdb
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\_07._06._19.Form1.resources
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\_07._06._19.Properties.Resources.resources
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\07.06.19.csproj.GenerateResource.cache
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\07.06.19.csproj.CoreCompileInputs.cache
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\07.06.19.exe
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\07.06.19.pdb
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\_07._06._19.Form2.resources
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\07.06.19.csprojAssemblyReference.cache
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\_07._06._19.Form3.resources
+D:\code academy\c#\ByMeHomeWork\07.06.19\07.06.19\obj\Debug\_07._06._19.Form4.resources
